@@ -1,5 +1,5 @@
 {
-  "homepage": "http://AlfonsoZen.github.io/alfonsozen",
+  "homepage": "http://AlfonsoZen.github.io/alfzen",
   "name": "3d_portfolio",
   "private": true,
   "version": "0.0.0",
@@ -8,7 +8,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
-    "build": "vite buildt",
     "preview": "vite preview"
   },
   "dependencies": {
